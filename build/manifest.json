@@ -1,0 +1,39 @@
+{
+  "_notifications-I8teCTYo.js": {
+    "file": "assets/notifications-I8teCTYo.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-OiIRWI2g.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/filament/admin/theme.css": {
+    "file": "assets/theme-0LZAwUL3.css",
+    "isEntry": true,
+    "src": "resources/css/filament/admin/theme.css"
+  },
+  "resources/css/share-buttons.css": {
+    "file": "assets/share-buttons-Eqg9hsY1.css",
+    "isEntry": true,
+    "src": "resources/css/share-buttons.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-JFuVdfIq.css"
+    ],
+    "file": "assets/app-7zpb0ahY.js",
+    "imports": [
+      "_notifications-I8teCTYo.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/install.js": {
+    "file": "assets/install-QX6C_OL3.js",
+    "imports": [
+      "_notifications-I8teCTYo.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/install.js"
+  }
+}
